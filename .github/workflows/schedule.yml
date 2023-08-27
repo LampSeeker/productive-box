@@ -12,6 +12,6 @@ jobs:
       - name: Update gist
         uses: maxam2017/productive-box@master
         env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: ${{ secrets.GIST_ID }}
+          GH_TOKEN: ${{ secrets.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 }}
+          GIST_ID: ${{ secrets.https://gist.github.com/LampSeeker/ }}
           TIMEZONE: Asia/Seoul
